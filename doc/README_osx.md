@@ -95,3 +95,5 @@ build process to remain somewhat deterministic. Here's how it works:
   using the script that is also included there.
 - Builders feed the unsigned app + detached signature back into Gitian. It
   uses the pre-built tools to recombine the pieces into a deterministic dmg.
+
+<!-- Auto-update: 2025-10-19T11:20:39.011552 -->
